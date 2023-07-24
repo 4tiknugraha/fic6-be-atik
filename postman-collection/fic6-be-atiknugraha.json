@@ -1204,7 +1204,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\"data\" : {\n    \"items\" :[\n\n        {\n            \"id\" : 1,\n            \"productName\": \"sepatu vans\",\n            \"price\": 200000,\n            \"qty\": 1\n        },\n        {\n             \"id\" : 2,\n            \"productName\": \"kaos vans\",\n            \"price\": 300000,\n            \"qty\": 1\n        }\n    ],\n    \"totalPrice\": 512000.00,\n    \"deliverAddress\": \"palem 4 raya blok kn 12\",\n    \"courierName\": \"JNT\",\n    \"shippingCost\": \"12000\",\n    \"statusOrder\": \"waitingPayment\"\n\n\n    }\n}",
+					"raw": "{\"data\" : {\n    \"items\" :[\n        {\n            \"id\" : 1,\n            \"productName\": \"sepatu vans\",\n            \"price\": 200000,\n            \"qty\": 1\n        },\n        {\n             \"id\" : 2,\n            \"productName\": \"kaos vans\",\n            \"price\": 300000,\n            \"qty\": 1\n        }\n    ],\n    \"totalPrice\": 812000.00,\n    \"deliverAddress\": \"palem 4 raya blok kn 12\",\n    \"courierName\": \"JNT\",\n    \"shippingCost\": \"12000\",\n    \"statusOrder\": \"waitingPayment\"\n    }\n}",
 					"options": {
 						"raw": {
 							"language": "json"
