@@ -1,9 +1,9 @@
 {
   "kind": "collectionType",
-  "collectionName": "payment_call_backs",
+  "collectionName": "payment_callbacks",
   "info": {
-    "singularName": "payment-call-back",
-    "pluralName": "payment-call-backs",
+    "singularName": "payment-callback",
+    "pluralName": "payment-callbacks",
     "displayName": "paymentCallBack"
   },
   "options": {
